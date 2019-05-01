@@ -3,7 +3,7 @@
 	z-index: 0;
 
 	.section-inner {
-		padding-bottom: 0;
+		padding-bottom: 88px;
 	}
 
     .section-title {
@@ -19,7 +19,7 @@
 	&::before {
 		top: 0;
 		right: 0;
-		bottom: 148px;
+		bottom: 0;
 		left: 0;
 		background: color(typography, 1);
 		z-index: -2;
@@ -121,7 +121,7 @@
 	    }
 
 		&::before {
-			bottom: 168px;
+			bottom: 0;
 		}
 
 		&::after {

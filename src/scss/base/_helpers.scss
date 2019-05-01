@@ -11,10 +11,6 @@
 	}
 }
 
-.container {
-	max-width: $container__width + ( get-content-padding(desktop) * 2 );
-}
-
 .container-sm {
 	max-width: $container__width-sm + ( get-content-padding(desktop) * 2 );
 }
